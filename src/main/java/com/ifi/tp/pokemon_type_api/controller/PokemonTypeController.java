@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.ifi.pokemon_type_api.bo.PokemonType;
+import com.ifi.tp.pokemon_type_api.bo.PokemonType;
 import com.ifi.tp.pokemon_type_api.service.PokemonTypeService;
 
 @RestController

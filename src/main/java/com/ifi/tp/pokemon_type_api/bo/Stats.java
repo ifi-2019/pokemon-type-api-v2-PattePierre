@@ -1,4 +1,4 @@
-package com.ifi.pokemon_type_api.bo;
+package com.ifi.tp.pokemon_type_api.bo;
 
 public class Stats {
 

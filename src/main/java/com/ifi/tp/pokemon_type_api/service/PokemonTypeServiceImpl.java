@@ -4,7 +4,7 @@ import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import com.ifi.pokemon_type_api.bo.PokemonType;
+import com.ifi.tp.pokemon_type_api.bo.PokemonType;
 import com.ifi.tp.pokemon_type_api.repository.PokemonTypeRepository;
 
 @Service

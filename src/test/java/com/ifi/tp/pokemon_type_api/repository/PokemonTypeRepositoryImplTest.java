@@ -1,6 +1,7 @@
 package com.ifi.tp.pokemon_type_api.repository;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertNotNull;
 
 import java.util.List;
 
@@ -8,7 +9,7 @@ import org.junit.Test;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
-import com.ifi.pokemon_type_api.bo.PokemonType;
+import com.ifi.tp.pokemon_type_api.bo.PokemonType;
 
 public class PokemonTypeRepositoryImplTest {
 
